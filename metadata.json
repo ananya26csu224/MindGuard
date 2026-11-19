@@ -1,0 +1,6 @@
+{
+  "name": "MindGuard AI",
+  "description": "Predicting distress before it becomes a crisis. AI-powered mental wellness monitoring, explainable distress prediction, burnout forecasting, and empathetic CBT coaching for students and young adults.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
